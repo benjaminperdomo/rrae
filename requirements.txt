@@ -6,6 +6,10 @@ warcio
 # for link extraction and webgraph construction also:
 idna
 
-# for parsing HTML (used in cc_index_word_count.py)
+# for parsing HTML
 beautifulsoup4
 lxml
+
+# for exporting dataframe to Excel
+xlwt
+pandas
